@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+# 个人简介
 
 <img src="https://bambooplus0o0.github.io/images/ICE.jpg" class="floatpic">
 
@@ -19,8 +19,14 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## 教育背景
 
-- 2017年09月-2023年12月  云南大学 计算机科学与技术  工学博士
-- 2013年08月-2027年07月  云南大学 计算机科学与技术  工学学士
+- 2017年09月-2023年12月&ensp; &ensp;云南大学&ensp; &ensp;计算机科学与技术&ensp; &ensp;工学博士
+- 2013年08月-2027年07月&ensp; &ensp;云南大学&ensp; &ensp;计算机科学与技术&ensp; &ensp;工学学士
+
+---
+
+## 工作经历
+
+2023年12月至今&ensp; &ensp;云南大学信息学院&ensp; &ensp;师资博士后（助理研究员）
 
 ---
 
