@@ -37,10 +37,11 @@ title: Publications
 
 [15] 付瑞, 李剑宇, **王笳辉**, 岳昆, 胡矿. 面向领域知识图谱的实体关系联合抽取. 华东师范大学学报(自然科学版), 2021, (5): 24-36. <br>
 
+</p>
 
 ## Conference Paper
 
-[1] Yuncheng Shi, **Jiahui Wang (Corresponding Author)**, Zehao Huang, Shiyao Li, Chengjie Xue, Kun Yue. Joint Semantic Relation Extraction for Multiple Entity Packets. Proceedings of the Web and Big Data - 8th International Joint Conference (APWEB), 2024: 74-89. <br>
+<p style="text-indent:0em">[1] Yuncheng Shi, **Jiahui Wang (Corresponding Author)**, Zehao Huang, Shiyao Li, Chengjie Xue, Kun Yue. Joint Semantic Relation Extraction for Multiple Entity Packets. Proceedings of the Web and Big Data - 8th International Joint Conference (APWEB), 2024: 74-89. <br>
 
 [2] Bohou Jiang, **Jiahui Wang (Corresponding Author)**, Kun Yue. Graph Neural Network with Heterogeneous Attributes for Node Classification. Proceedings of the 2024 4th International Conference on Neural Networks, Information and Communication (NNICE). IEEE, 2024: 576-583. <br>
 
@@ -49,6 +50,7 @@ title: Publications
 [4] Kun Yue, **Jiahui Wang**, Xinbai Li, Kuang Hu. Representation-Based Completion of Knowledge Graph with Open-World Data. Proceedings of the 2020 5th International Conference on Computer and Communication Systems (ICCCS), 2020, pp. 1-8. DOI: 10.1109/ICCCS49078.2020.9118444. <br>
 
 </p>
+
 
 <!-- - [Graph Representation-based Model Poisoning on Federated Large Language Models](https://arxiv.org/abs/2507.01694)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li~, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine.<br>
   
