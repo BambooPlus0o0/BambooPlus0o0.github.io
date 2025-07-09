@@ -13,7 +13,7 @@ I am an assistant professor at [School of Information Science](http://www.ise.yn
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **wjh@ynu.edu.cn** -->
 
-**王笳辉**，博士，助理研究员，硕士生导师。2023年毕业于[云南大学](https://www.ynu.edu.cn/)计算机科学与技术专业，获工学博士学位。师从[岳昆教授](http://www.ise.ynu.edu.cn/teacher/32)，从事数据与知识工程、领域知识挖掘、不确定性知识推理方面的工作。主持云南省彩云博后创新项目等3项，参与国家自然科学基金重点、云南省重点等项目8项，在KBS、DSE、《计算机研究与发展》、《软件学报》、《电子学报》、APWEB等国内外期刊及会议发表论文10余篇，申请、授权发明专利9项，获2024年度云南省自然科学一等奖，研究成果入选云南大学十大科技进展。
+**王笳辉**，博士，助理研究员，硕士生导师。2023年毕业于[云南大学](https://www.ynu.edu.cn/)计算机科学与技术专业，获工学博士学位。师从[岳昆教授](http://www.ise.ynu.edu.cn/teacher/32)，从事数据与知识工程、领域知识挖掘、不确定性知识推理方面的工作。主持云南省彩云博后创新项目等4项，参与国家自然科学基金重点、云南省重点等项目6项，在KBS、DSE、《计算机研究与发展》、《软件学报》、《电子学报》、APWEB等国内外期刊及会议发表论文10余篇，申请、授权发明专利9项，获2024年度云南省自然科学一等奖，研究成果入选云南大学十大科技进展。
 
 ---
 
