@@ -16,6 +16,16 @@ Prior to Cambridge, I have worked on wireless networks, cybersecurity, and machi
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **wjh@ynu.edu.cn**
 
+<!-- ---
+
+ ## Education
+
+- 2013 - 2017 Yunnan University Computer Science and Technology PH.D
+
+- 2017 - 2023 Yunnan University Computer Science and Technology PH.D --> 
+
+
+
 ---
 
 ## Research Interests
