@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /activities/
-title: Activities/
+title: Activities
 ---
 
 ## 学术活动
@@ -20,6 +20,7 @@ title: Activities/
 - 2019.07 &emsp; 担任第八届 CAAI不确定性人工智能学术沙龙组委会成员 &emsp; 昆明
 - 2018.07 &emsp; 参加华东师范大学第五届数据科学与工程暑期学校 &emsp; 上海 -->
 
+<p>
 
 | :----:| :---- | :----: |
 | 2025.03 | 参加CCF中国数据库战略研讨会 | 婺源
@@ -36,4 +37,5 @@ title: Activities/
 | 2019.07 | 担任第八届 CAAI不确定性人工智能学术沙龙组委会成员 | 昆明
 | 2018.07 | 参加华东师范大学第五届数据科学与工程暑期学校 | 上海
 
+</p>
 
