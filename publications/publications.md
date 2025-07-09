@@ -7,7 +7,7 @@ title: Publications
 
 ## Journal Paper 
 
-<p style="text-indent:2em">[1] **Jiahui Wang**, Kun Yue, Liang Duan, Zhiwei Qi, Shaojie Qiao. An Efficient Approach for Multiple Probabilistic Inferences with Deepwalk based Bayesian network embedding. Knowledge-Based Systems, 2022, 239: 107996, DOI: 10.1016/j.knosys.2021.107996. <br>
+<p style="text-indent:0em">[1] **Jiahui Wang**, Kun Yue, Liang Duan, Zhiwei Qi, Shaojie Qiao. An Efficient Approach for Multiple Probabilistic Inferences with Deepwalk based Bayesian network embedding. Knowledge-Based Systems, 2022, 239: 107996, DOI: 10.1016/j.knosys.2021.107996. <br>
 
 [2] Shanna Zhong, **Jiahui Wang (Corresponding Author)**, Kun Yue, Liang Duan, Zhengbao Sun, Yan Fang. Few-Shot relation Prediction of Knowledge Graph via Convolutional Neural Network with Self-Attention. Data Science and Engineering, 2023, 8: 385-395. DOI: 10.1007/s41019-023-00230-x. <br>
 
