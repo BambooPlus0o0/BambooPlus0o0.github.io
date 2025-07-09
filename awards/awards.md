@@ -25,7 +25,7 @@ title: Awards
 - Nov 2022：First Prize in China Undergraduate Mathematical Contest in Modeling
 - June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br> -->
 
-[1] 云南省自然科学一等奖——社交媒体数据的关联挖掘、知识表示与协同推荐, 2024. <br>
+&ensp; &ensp; [1] 云南省自然科学一等奖——社交媒体数据的关联挖掘、知识表示与协同推荐, 2024. <br>
 
 [2] 云南大学十大科技进展——社交媒体数据的关联挖掘、知识表示与协同推荐, 2025. <br>
 
