@@ -14,10 +14,10 @@ url: https://bambooplus0o0.github.io
 # --------------------------------------------------
 owner:
   name: Jiahui Wang
-  avatar: PHD.jpg
+  avatar: WJH.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: wjh@ynu.edu.cn
-  Google Scholar: https://scholar.google.com/citations?user=NBCBoTYAAAAJ
+  scholar: https://scholar.google.com/citations?user=NBCBoTYAAAAJ
 
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 
@@ -53,9 +53,9 @@ links:
   - title: About Me
     url: /
   - title: Publications
-    url: /publications/
+    url: /publications/publications/
   - title: Awards
-    url: /awards/
+    url: /awards/awards/
   # - title: Hobbies
   #   url: /hobbies/
   # - title: Blogs

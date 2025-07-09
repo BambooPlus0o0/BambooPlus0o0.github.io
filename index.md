@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://bambooplus0o0.github.io/images/PHD.jpg" class="floatpic">
+<img src="https://bambooplus0o0.github.io/images/ICE.jpg" class="floatpic">
 
 Here is **Jiahui Wang (王笳辉)**.<br>
 
