@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /awards/index.html
+# permalink: /awards/index.html
 title: Awards
 ---
 
 ## Scholarships
 
-- May 2025：**Cambridge CSC Trust Scholarship** (totally £190,000 for tuition waiver and stipend)
+<!-- - May 2025：**Cambridge CSC Trust Scholarship** (totally £190,000 for tuition waiver and stipend)
 - June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
 - Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
 - Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards
@@ -23,6 +23,12 @@ title: Awards
 - Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
 - May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
 - Nov 2022：First Prize in China Undergraduate Mathematical Contest in Modeling
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br> -->
+
+[1]云南省自然科学一等奖——社交媒体数据的关联挖掘、知识表示与协同推荐 2024
+[2]云南大学十大科技进展——社交媒体数据的关联挖掘、知识表示与协同推荐 2025
+[3]第七届云南省“互联网+”大学生创新创业大赛银奖——机器小鱼-专治电信诈骗的智能全民财产守卫 2021
+[4]第七届云南省“互联网+”大学生创新创业大赛铜奖——“运”筹“维”幄:通信基站智慧运维引领者 2021
+
 
 <br>
