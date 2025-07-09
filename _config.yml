@@ -53,9 +53,9 @@ links:
   - title: About Me
     url: /
   - title: Publications
-    url: /publications/publications/
+    url: /publications/
   - title: Awards
-    url: /awards/awards/
+    url: /awards/
   # - title: Hobbies
   #   url: /hobbies/
   # - title: Blogs
@@ -77,7 +77,7 @@ highlighter: rouge               # Code highlighter; Rouge is default in MM
 # --------------------------------------------------
 #  PERMALINK STRUCTURE
 # --------------------------------------------------
-permalink: /:categories/:title    # e.g. /tech/my-post/
+# permalink: /:title    # e.g. /my-post/
 
 
 # --------------------------------------------------
