@@ -14,7 +14,7 @@ url: https://bambooplus0o0.github.io
 # --------------------------------------------------
 owner:
   name: Jiahui Wang
-  avatar: /images/PHD.jpg
+  avatar: PHD.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: wjh@ynu.edu.cn
   Google Scholar: https://scholar.google.com/citations?user=NBCBoTYAAAAJ
@@ -41,7 +41,7 @@ owner:
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
 # --------------------------------------------------
 # google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
-bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+# bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # google_analytics: "G-XXXXXXX"                                 # GA-4 property ID
 
 
