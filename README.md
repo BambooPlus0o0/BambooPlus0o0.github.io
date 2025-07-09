@@ -2,5 +2,5 @@
 
 Here is **Jiahui Wang (王笳辉)**. 
 
-This is the repository for my personal website.
+This is the repository of my personal website.
 

@@ -26,7 +26,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## 工作经历
 
-2023年12月至今&ensp; &ensp;云南大学信息学院&ensp; &ensp;师资博士后（助理研究员）
+- 2023年12月至今&ensp; &ensp;云南大学信息学院&ensp; &ensp;师资博士后（助理研究员）
 
 ---
 
