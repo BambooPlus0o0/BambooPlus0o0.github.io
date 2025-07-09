@@ -7,7 +7,7 @@ title: Publications
 
 ## Journal Paper 
 
-&ensp; [1] **Jiahui Wang**, Kun Yue, Liang Duan, Zhiwei Qi, Shaojie Qiao. An Efficient Approach for Multiple Probabilistic Inferences with Deepwalk based Bayesian network embedding. Knowledge-Based Systems, 2022, 239: 107996, DOI: 10.1016/j.knosys.2021.107996. <br>
+&ensp; &ensp; [1] **Jiahui Wang**, Kun Yue, Liang Duan, Zhiwei Qi, Shaojie Qiao. An Efficient Approach for Multiple Probabilistic Inferences with Deepwalk based Bayesian network embedding. Knowledge-Based Systems, 2022, 239: 107996, DOI: 10.1016/j.knosys.2021.107996. <br>
 
 [2] Shanna Zhong, **Jiahui Wang (Corresponding Author)**, Kun Yue, Liang Duan, Zhengbao Sun, Yan Fang. Few-Shot relation Prediction of Knowledge Graph via Convolutional Neural Network with Self-Attention. Data Science and Engineering, 2023, 8: 385-395. DOI: 10.1007/s41019-023-00230-x. <br>
 
@@ -38,10 +38,9 @@ title: Publications
 [15] 付瑞, 李剑宇, **王笳辉**, 岳昆, 胡矿. 面向领域知识图谱的实体关系联合抽取. 华东师范大学学报(自然科学版), 2021, (5): 24-36. <br>
 
 
-
 ## Conference Paper
 
-&ensp; [1] Yuncheng Shi, **Jiahui Wang (Corresponding Author)**, Zehao Huang, Shiyao Li, Chengjie Xue, Kun Yue. Joint Semantic Relation Extraction for Multiple Entity Packets. Proceedings of the Web and Big Data - 8th International Joint Conference (APWEB), 2024: 74-89. <br>
+&ensp; &ensp; [1] Yuncheng Shi, **Jiahui Wang (Corresponding Author)**, Zehao Huang, Shiyao Li, Chengjie Xue, Kun Yue. Joint Semantic Relation Extraction for Multiple Entity Packets. Proceedings of the Web and Big Data - 8th International Joint Conference (APWEB), 2024: 74-89. <br>
 
 [2] Bohou Jiang, **Jiahui Wang (Corresponding Author)**, Kun Yue. Graph Neural Network with Heterogeneous Attributes for Node Classification. Proceedings of the 2024 4th International Conference on Neural Networks, Information and Communication (NNICE). IEEE, 2024: 576-583. <br>
 
