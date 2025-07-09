@@ -5,7 +5,7 @@ title: Publications
 ---
 
 
-## Journal Paper
+## Journal Paper <br>
 
 [1] **Jiahui Wang**, Kun Yue, Liang Duan, Zhiwei Qi, Shaojie Qiao. An Efficient Approach for Multiple Probabilistic Inferences with Deepwalk based Bayesian network embedding. Knowledge-Based Systems, 2022, 239: 107996, DOI: 10.1016/j.knosys.2021.107996. <br>
 
