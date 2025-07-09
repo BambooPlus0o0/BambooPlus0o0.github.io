@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /cn/index.html
+# permalink: /cn/index.html
 title: 主页中文版
 ---
 
 ## 关于我
 
-<img src="https://bambooplus0o0.github.io/PHD.jpg" class="floatpic">
+<img src="https://bambooplus0o0.github.io/images/PHD.jpg" class="floatpic">
 
 <br>我是王笳辉，1996年生，安徽潜山人。
 

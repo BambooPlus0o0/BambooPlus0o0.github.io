@@ -7,14 +7,14 @@ description: Two roads diverged in woods, I took the one less traveled by.  # St
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://bamboo0o0.github.io
+url: https://bambooplus0o0.github.io
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
   name: Jiahui Wang
-  avatar: PHD.jpg
+  avatar: /images/PHD.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: wjh@ynu.edu.cn
   Google Scholar: https://scholar.google.com/citations?user=NBCBoTYAAAAJ
@@ -40,8 +40,8 @@ owner:
 # --------------------------------------------------
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
 # --------------------------------------------------
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
-# bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+# google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # google_analytics: "G-XXXXXXX"                                 # GA-4 property ID
 
 
@@ -60,8 +60,8 @@ links:
   #   url: /hobbies/
   # - title: Blogs
   #   url: /blogs/
-  - title: 中文
-    url: /cn/
+  # - title: 中文
+  #   url: /cn/
 
 
 # --------------------------------------------------
