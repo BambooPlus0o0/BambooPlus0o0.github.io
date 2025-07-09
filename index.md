@@ -6,15 +6,33 @@ layout: page
 
 <img src="https://bambooplus0o0.github.io/images/ICE.jpg" class="floatpic">
 
-Here is **Jiahui Wang (王笳辉)**.<br>
+<!-- Here is **Jiahui Wang (王笳辉)**.<br>
 
 I am an assistant professor at [School of Information Science](http://www.ise.ynu.edu.cn/), [Yunnan University](https://www.ynu.edu.cn/). I received my Ph.D. degree in Computer Science and Technology from the [School of Information Science](http://www.ise.ynu.edu.cn/), [Yunnan University](https://www.ynu.edu.cn/) in December 2023, working on domain knowledge mining and uncertain knowledge reasoning, supervised by [Prof. Kun Yue](http://www.ise.ynu.edu.cn/teacher/32). 
 
-<!-- I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
 
-Prior to Cambridge, I have worked on wireless networks, cybersecurity, and machine learning under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024. -->
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **wjh@ynu.edu.cn** -->
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **wjh@ynu.edu.cn**
+**王笳辉**，博士，助理研究员，硕士生导师。2023年毕业于[云南大学](https://www.ynu.edu.cn/)计算机科学与技术专业，获工学博士学位。师从[岳昆教授](http://www.ise.ynu.edu.cn/teacher/32)，从事数据与知识工程、领域知识挖掘、不确定性知识推理方面的工作。主持云南省彩云博后创新项目等3项，参与国家自然科学基金重点、云南省重点等项目8项，在KBS、DSE、《计算机研究与发展》、《软件学报》、《电子学报》、APWEB等国内外期刊及会议发表论文10余篇，申请、授权发明专利9项，获2024年度云南省自然科学一等奖，研究成果入选云南大学十大科技进展。
+
+---
+
+## 教育背景
+
+- 2017年09月-2023年12月  云南大学 计算机科学与技术  工学博士
+- 2013年08月-2027年07月  云南大学 计算机科学与技术  工学学士
+
+---
+
+## 研究兴趣
+
+- 数据与知识工程
+- 领域知识挖掘
+- 不确定性知识推理
+
+---
+
+
 
 <!-- ---
 
@@ -26,7 +44,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 
 
----
+<!-- ---
 
 ## Research Interests
 
@@ -34,7 +52,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - Domain Knowledge Mining
 - Uncertain Knowledge Reasoning
 
----
+--- -->
 
 <!-- ## News and Updates
 
