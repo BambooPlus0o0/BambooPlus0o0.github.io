@@ -48,5 +48,3 @@ title: Publications
 - **Jiahui Wang**, Kun Yue, Liang Duan. An Approach for Domain relation Extraction. Proceedings of the 2022 IEEE 11th Global Conference on Consumer Electronics (GCCE), 2022, pp. 249-250. DOI: 10.1109/GCCE56475.2022.10014427.
 
 - Kun Yue, **Jiahui Wang**, Xinbai Li, Kuang Hu. Representation-Based Completion of Knowledge Graph with Open-World Data. Proceedings of the 2020 5th International Conference on Computer and Communication Systems (ICCCS), 2020, pp. 1-8. DOI: 10.1109/ICCCS49078.2020.9118444.
-
-<br
