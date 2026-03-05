@@ -13,6 +13,8 @@ title: Publications
 
 - Shanna Zhong, **Jiahui Wang (Corresponding Author)**, Kun Yue, Liang Duan, Zhengbao Sun, Yan Fang. Few-Shot relation Prediction of Knowledge Graph via Convolutional Neural Network with Self-Attention. Data Science and Engineering, 2023, 8: 385-395. DOI: 10.1007/s41019-023-00230-x.
 
+- Zhongbin Li, Kun Yue, Lixing Yu, **Jiahui Wang (Corresponding Author)**. An Inference Framework of Markov Logic Network for Link Prediction in Heterogeneous Networks. Applied Sciences. 2025; 15 (8):4424. DOI: 10.3390/app15084424
+
 - **Jiahui Wang**, Kun Yue, Liang Duan. Models and Techniques for Domain relation Extraction: A Survey. Journal of Data Science and Intelligent Systems, 2023, 1(2), 65-82. DOI: 10.47852/bonviewJDSIS3202973.
 
 - Zhiwei Qi, Kun Yue, Liang Duan, **Jiahui Wang**, Shaojie Qiao, Xiaodong Fu. Matrix factorization based Bayesian network embedding for efficient probabilistic inferences. Expert Systems with Applications, 2021, 169: 114294.
@@ -43,7 +45,7 @@ title: Publications
 
 - Yuncheng Shi, **Jiahui Wang (Corresponding Author)**, Zehao Huang, Shiyao Li, Chengjie Xue, Kun Yue. Joint Semantic Relation Extraction for Multiple Entity Packets. Proceedings of the Web and Big Data - 8th International Joint Conference (APWEB), 2024: 74-89.
 
-- Bohou Jiang, **Jiahui Wang (Corresponding Author)**, Kun Yue. Graph Neural Network with Heterogeneous Attributes for Node Classification. Proceedings of the 2024 4th International Conference on Neural Networks, Information and Communication (NNICE). IEEE, 2024: 576-583.
+- Bohou Jiang, **Jiahui Wang (Corresponding Author)**, Kun Yue. Graph Neural Network with Heterogeneous Attributes for Node Classification. Proceedings of the 2024 4th International Conference on Neural Networks, Information and Communication (NNICE), 2024: 576-583.
 
 - **Jiahui Wang**, Kun Yue, Liang Duan. An Approach for Domain relation Extraction. Proceedings of the 2022 IEEE 11th Global Conference on Consumer Electronics (GCCE), 2022, pp. 249-250. DOI: 10.1109/GCCE56475.2022.10014427.
 
